@@ -1,0 +1,9 @@
+format,extension,accepted_by_fieldnote,max_file_size_mb,max_duration_seconds,batch_upload,processing_location,output,source
+MP3,.mp3,true,25,60,false,local browser,Standard MIDI (.mid),https://midifromsound.com/
+WAV,.wav,true,25,60,false,local browser,Standard MIDI (.mid),https://midifromsound.com/
+FLAC,.flac,false,,,false,not applicable,not applicable,https://midifromsound.com/
+M4A,.m4a,false,,,false,not applicable,not applicable,https://midifromsound.com/
+OGG,.ogg,false,,,false,not applicable,not applicable,https://midifromsound.com/
+AAC,.aac,false,,,false,not applicable,not applicable,https://midifromsound.com/
+AIFF,.aiff,false,,,false,not applicable,not applicable,https://midifromsound.com/
+Video,,false,,,false,not applicable,not applicable,https://midifromsound.com/
